@@ -1,6 +1,6 @@
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hey guys and < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MessiasFMS.MessiasFMS)
@@ -12,18 +12,7 @@
 <h2> About Me <img src = "https://media1.giphy.com/media/4p1JhLCYEOEJa/giphy.gif?cid=ecf05e47orj27vrrmb16t16b15tu83duciqbt3z4vb60sn3r&rid=giphy.gif&ct=g" width = 40px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://i.imgur.com/utj49f1.png" />
-
-
-- 🔭 I’m currently working on 
-
-
-- 🌱 I’m currently learning I am learning website development and software development. 
-
-- 👯 I’m looking to collaborate on 
-
-
-- 💬 Talk to me about A passionate developer, currently studying computer science for the internet and a fan of javascript, java and website creation.
-
+• I am a passionate developer, currently studying computer science for the internet and a fan of javascript, java and website creation.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/MessiasFMS?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
