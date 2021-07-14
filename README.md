@@ -9,7 +9,7 @@
 <div size='20px'> Hi! My name is Felipe. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media1.giphy.com/media/4p1JhLCYEOEJa/giphy.gif?cid=ecf05e47orj27vrrmb16t16b15tu83duciqbt3z4vb60sn3r&rid=giphy.gif&ct=g" width = 40px></h2>
+<h2> About Me <img src = "https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-dancer-gif.gif?raw=true" width = 40px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://i.imgur.com/utj49f1.png" />
 • I am a passionate developer, currently studying computer science for the internet and a fan of javascript, java and website creation.
