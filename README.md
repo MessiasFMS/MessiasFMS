@@ -9,7 +9,7 @@
 <div size='20px'> Hi! My name is Felipe. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media1.tenor.com/images/cff1932e33cc209a8c30d34a1e40c418/tenor.gif?itemid=17506213" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://i.imgur.com/utj49f1.png" />
 
