@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe Messias or as you prefer MessiasFMS</h1>
-<h3 align="left">A passionate developer, currently studying computer science for the internet and a fan of javascript, java and website creation.</h3>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MessiasFMS.MessiasFMS)
+
+<div size='20px'>A passionate developer, currently studying computer science for the internet and a fan of javascript, java and website creation.</div>
 
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
