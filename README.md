@@ -11,6 +11,8 @@ Enthusiast of the best web technologies.
 
 I am a passionate developer, currently in constant study of programming and software development.
 
+
+
 *Languages*: HTML, CSS, Java, JavaScript, TypeScript and SQL;
 
 *Frameworks/Libs*: ReactJS, Express and Spigot/Bukkit;
