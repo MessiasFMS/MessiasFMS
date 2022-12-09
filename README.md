@@ -13,6 +13,6 @@ I am a passionate developer, currently in constant study of programming and soft
 
 *Languages*: HTML, CSS, Java, JavaScript, TypeScript and SQL;
 
-*Frameworks/Libs*: ReactJS, Spring Boot, Next.js, TailwindCSS, Express and Spigot/Bukkit;
+*Frameworks/Libs*: ReactJS, Spring Boot, Next.js, TailwindCSS, Prisma, Express and Spigot/Bukkit;
 
 *Databases*: MySQL, PostgreeSQL, SQL Server and Firebase.
